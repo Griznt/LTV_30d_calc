@@ -1,0 +1,11 @@
+.vscode
+.env
+.git
+.gitignore
+documentation
+coverage
+etc
+logs
+node_modules
+test
+ext
